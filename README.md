@@ -1,2 +1,2 @@
 # airquality
-Air Quality Data in St.Petersburg
+Air Quality Data for St.Petersburg
